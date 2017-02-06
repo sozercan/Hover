@@ -1,0 +1,16 @@
+#location {
+  border: solid 1px #ccc;
+  padding: 0px;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+}
+
+#controls #center-column {
+  -webkit-flex: 1;
+}
+
+#controls #location-form {
+  -webkit-flex: 1;
+  display: -webkit-flex;
+  -webit-flex-direction: column;
+}
